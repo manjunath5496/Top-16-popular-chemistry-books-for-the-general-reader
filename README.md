@@ -35,7 +35,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-16-popular-chemistry-books-for-the-general-reader/blob/master/pg(15).pdf" style="text-decoration:none;">Periodic Tales: The Curious Lives of the Elements</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-16-popular-chemistry-books-for-the-general-reader/blob/master/pg(16).rar" style="text-decoration:none;">The Joy of Chemistry: The Amazing Science of Familiar Things</a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-16-popular-chemistry-books-for-the-general-reader/blob/master/pg(17).pdf" style="text-decoration:none;">The Periodic Kingdom: A Journey Into The Land Of The Chemical Elements </a></b></li>
 
 
 </ul>
